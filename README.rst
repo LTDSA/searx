@@ -1,43 +1,43 @@
 searx
 =====
 
-A privacy-respecting, hackable `metasearch
-engine <https://en.wikipedia.org/wiki/Metasearch_engine>`__.
+一个尊重隐私的，容易被破解的 `元搜索
+引擎 <https://en.wikipedia.org/wiki/Metasearch_engine>`__。
 
-Pronunciation: səːks
+发音：səːks
 
-List of `running
-instances <https://github.com/asciimoo/searx/wiki/Searx-instances>`__.
+`运行
+实例 <https://github.com/asciimoo/searx/wiki/Searx-instances>`__的清单。
 
-See the `documentation <https://asciimoo.github.io/searx>`__ and the `wiki <https://github.com/asciimoo/searx/wiki>`__ for more information.
+参阅`文档 <https://asciimoo.github.io/searx>`__ 和 `百科 <https://github.com/asciimoo/searx/wiki>`__ 来了解更多信息。
 
 |OpenCollective searx backers|
 |OpenCollective searx sponsors|
 
-Installation
+安装
 ~~~~~~~~~~~~
 
--  clone source:
+-  克隆源代码：
    ``git clone https://github.com/asciimoo/searx.git && cd searx``
 -  install dependencies: ``./manage.sh update_packages``
--  edit your
+-  编辑您的
    `settings.yml <https://github.com/asciimoo/searx/blob/master/searx/settings.yml>`__
-   (set your ``secret_key``!)
--  run ``python searx/webapp.py`` to start the application
+  （设置您的``secret_key``！）
+-  运行 ``python searx/webapp.py`` 来启动应用程序
 
-For all the details, follow this `step by step
-installation <https://github.com/asciimoo/searx/wiki/Installation>`__.
+有关所有细节，请按照此`一步步
+安装 <https://github.com/asciimoo/searx/wiki/Installation>`__操作。
 
-Bugs
+错误
 ~~~~
 
-Bugs or suggestions? Visit the `issue
-tracker <https://github.com/asciimoo/searx/issues>`__.
+错误或建议？访问`问题
+追踪器 <https://github.com/asciimoo/searx/issues>`__。
 
 `License <https://github.com/asciimoo/searx/blob/master/LICENSE>`__
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
-More about searx
+更多关于 searx
 ~~~~~~~~~~~~~~~~
 
 -  `openhub <https://www.openhub.net/p/searx/>`__
